@@ -6,7 +6,7 @@
 
     <groupId>games.jvrcruz</groupId>
     <artifactId>blockgpt</artifactId>
-    <version>0.1.00-BETA</version>
+    <version>0.1.02-BETA</version>
     <packaging>jar</packaging>
 
     <name>blockgpt</name>
@@ -49,6 +49,14 @@
             </resource>
         </resources>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub jvrcruzGAMES Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/jvrcruzGAMES/BlockGPT</url>
+        </repository>
+    </distributionManagement>
 
     <repositories>
         <repository>

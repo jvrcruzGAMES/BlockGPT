@@ -1,5 +1,5 @@
 name: BlockGPT
-version: '0.1.00-BETA'
+version: '0.1.02-BETA'
 main: games.jvrcruz.blockgpt.BlockGPT
 api-version: '1.20'
 author: jvrcruz
