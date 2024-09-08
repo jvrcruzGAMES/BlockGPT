@@ -1,0 +1,7 @@
+# Gemini API Key
+# You can get your API key from https://aistudio.google.com/app/apikey
+# This key is used to authenticate your requests to the Gemini API
+# The generated key is a free key (If created in a non-funded project) and has a limit per month
+
+Gemini:
+  APIKey: "YOUR_API_KEY"
